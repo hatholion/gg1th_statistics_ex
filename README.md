@@ -28,3 +28,11 @@ uv add ipykernel
 '''
 uv run python -m ipykernel install --user --name .venv -- display-name "eda.env"
 '''
+
+# 설치 라이브러리 
+'''
+uv add numpy
+uv add scipy
+uv add pandas
+'''
+

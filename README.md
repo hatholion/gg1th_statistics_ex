@@ -15,7 +15,7 @@ cd statistics_ex
 '''
 -uv 가상환경 만들기
 '''
-u init --bare
+uv init --bare
 '''
 
 # 주피터 노트북 사용환경 구성하기

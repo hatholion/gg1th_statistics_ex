@@ -16,6 +16,7 @@ cd statistics_ex
 -uv 가상환경 만들기
 '''
 uv init --bare
+'''
 uv venv
 '''
 
